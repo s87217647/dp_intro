@@ -21,7 +21,7 @@ def fib(n):
 
 Base cases are straightforward. Otherwise, fib recursively calls itself. A fib(6) call produces a call stack tree like the image below. Values are recursively calculated multiple times. The time complexity for such a recursive algorithm is O(n^2). 
 
-![image.png](attachment:bd5dcfd4-d9c2-488c-b415-743248edc0a8:image.png)
+![call_stack.png](https://github.com/s87217647/dp_intro/blob/main/images/call_stack.png)
 
 **Dynamic Programming**
 
