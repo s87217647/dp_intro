@@ -2,7 +2,7 @@
 
 The algorithm leverages dynamic programming techniques. Both time complexity and memory complexity are O(m*n). Solving this problem by brute force results in  O((m+n)^2) time complexity. Basic idea for dynamic programming -break down a complex problem into simpler, smaller subproblems in a recursive manner. 
 
-![order.png](https://github.com/s87217647/dp_intro/blob/main/images/call_stack.png)
+![order.png](https://github.com/s87217647/dp_intro/blob/main/images/order.png)
 
 **Fibonacci Sequence**
 
